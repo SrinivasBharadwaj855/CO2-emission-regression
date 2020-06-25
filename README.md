@@ -1,2 +1,2 @@
 # CO2-emission-regression
-This is a project
+This project is mainly focused on 
